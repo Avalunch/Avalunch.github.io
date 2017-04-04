@@ -1,7 +1,7 @@
 url: "https://avalunch.github.io"
 baseurl: ""
 title: AvaLunch
-description: A template for quickly starting Meteor application development
+description: Description Page for AvaLunch final project
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-cayman
