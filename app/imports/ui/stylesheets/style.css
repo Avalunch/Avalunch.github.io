@@ -1,0 +1,46 @@
+
+body {
+  background-color: dimgrey;
+  margin: 0;
+  font-family: "brandon-grotesque",sans-serif;
+}
+
+#preloadimages {
+  visibility: hidden;
+  display: none;
+}
+
+p, h1, h2 {
+  margin: 0px;
+  padding: 0px;
+  font-family: "brandon-grotesque",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+
+.footer-background {
+  background-color: #000;
+  padding-top:20px;
+  color:white;
+}
+.footer1-background {
+  background-color: #fff;
+  padding-top:20px;
+  color:black;
+}
+
+
+a {
+  color: white;
+}
+
+.ui.inverted.menu{
+  background-color:	white;
+
+}
+
+#login-buttons a, .accounts-dialog a {
+  color:white;
+}

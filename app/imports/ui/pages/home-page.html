@@ -1,0 +1,38 @@
+<template name="Home_Page">
+  <div class="ui container">
+
+    {{#if Template.subscriptionsReady}}
+    <table style="margin-top: 20px" class="ui celled table">
+      <thead>
+      <tr>
+        <th>Restaurants</th>
+        <th>Hit Spots</th>
+        <th>Phone</th>
+        <th>Hours</th>
+        <th>Location</th>
+        <th>Order</th>
+      </tr>
+      </thead>
+
+      <tbody>
+      {{#each contact in contactsList}}
+      <tr>
+        <td>{{contact.first}}</td>
+        <td>{{contact.last}}</td>
+        <td>{{contact.address}}</td>
+        <td>{{contact.telephone}}</td>
+        <td>{{contact.email}}</td>
+        <td><a href="{{pathFor 'Edit_Contact_Page' _id=contact._id}}">Order</a></td>
+      </tr>
+      {{/each}}
+      </tbody>
+    </table>
+    {{else}}
+    {{> Loading}}
+    {{/if}}
+
+
+    </div>
+
+
+</template>
