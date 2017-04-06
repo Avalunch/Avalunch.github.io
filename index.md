@@ -47,12 +47,28 @@ Once fully configured, the app will begin to generate user-dependent listings of
 <hr>
 
 ## [Application Design](#application-design)<a name="application-design"></a>
-
 ### [Directory Structure](#directory-structure)<a name="directory-structure"></a>
+
+
+This project is based off of the UH ICS Deparment's [Meteor Application Template](http://ics-software-engineering.github.io/meteor-application-template/) and likewise we will be using a similar directory structure. We feel this choice will allow us to perform more agile development as all team members already have a working knowledge of hacking the aforementioned template.
+
+Our directory structure will organize the meteor application into a directory called ```/app``` and within, all of the dependencies for the project will be located, as well as, the source code for our later sections of the [Application Design](#application-design).
 
 ### [Import Conventions](#import-conventions)<a name="import-conventions"></a>
 
+
+Our project will be making extensive use of the following technologies including Meteor, and those that are natively bundled with Meteor.
+
+* Meteor
+* Blaze Template Engine
+* MongoDB
+
+As such, our source code will make extensive use of imports from these libraries.
+
 ### [Data Model](#data-model)<a name="data-model"></a>
+
+
+Our goal is to follow a similar data model of [Techfolios](http://techfolios.github.io/).
 
 ### [CSS](#css)<a name="css"></a>
 
