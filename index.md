@@ -92,7 +92,9 @@ As mentioned, in the [Import Conventions](#import-conventions) segment, Blaze ro
 Configured with the official Meteor Application Template is an authentication script for the UH Manoa CAS, which handles the University-wide login adminstration. This application will access UH CAS via API calls and authenticate users as valid logins.
 
 ### [Configuration](#configuration)<a name="configuration"></a>
+The repository contains one file: config/settings.development.json.
 
+The .gitignore file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
 
 
 
