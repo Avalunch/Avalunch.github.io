@@ -13,14 +13,14 @@ import { Contacts, ContactsSchema } from '../../api/contacts/contacts.js';
 
 const displayErrorMessages = 'displayErrorMessages';
 
-Template.Edit_Contact_Page.onCreated(function onCreated() {
+Template.Your_hit_spots.onCreated(function onCreated() {
   this.subscribe('Contacts');
   this.messageFlags = new ReactiveDict();
   this.messageFlags.set(displayErrorMessages, false);
-  this.context = ContactsSchema.namedContext('Edit_Contact_Page');
+  this.context = ContactsSchema.namedContext('Your_hit_spots');
 });
 
-Template.Edit_Contact_Page.helpers({
+Template.Your_hit_spots.helpers({
   contactDataField(fieldName) {
     const contactData = Contacts.findOne(FlowRouter.getParam('_id'));
     // See https://dweldon.silvrback.com/guards to understand '&&' in next line.
@@ -38,7 +38,7 @@ Template.Edit_Contact_Page.helpers({
 });
 
 
-Template.Edit_Contact_Page.events({
+Template.Your_hit_spots.events({
   'submit .contact-data-form'(event, instance) {
     event.preventDefault();
     // Get name (text field)

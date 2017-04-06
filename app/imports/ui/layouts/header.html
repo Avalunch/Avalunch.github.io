@@ -4,10 +4,10 @@
 
     <div style="border-radius:0px; margin:0px"  class="ui inverted menu">
   <div  class="ui container">
-      <a class="item" href="{{pathFor 'Home_Page'}}"><h1>Food Service</h1></a>
-    <a class="{{ isActiveRoute 'Add_Contact_Page'}} item" href="{{ pathFor 'Add_Contact_Page' }}">Restaurants </a>
+      <a class="item" href="{{pathFor 'Home_Page'}}"><h1>Avalunch</h1></a>
+    <a class="{{ isActiveRoute 'Restaurants'}} item" href="{{ pathFor 'Restaurants' }}">Restaurants </a>
 
-        <a class="{{ isActiveRoute 'Edit_Contact_Page'}} item" href="{{ pathFor 'Edit_Contact_Page' }}">Hit Spots </a>
+        <a class="{{ isActiveRoute 'Your_hit_spots'}} item" href="{{ pathFor 'Your_hit_spots' }}">Hit Spots </a>
        <a class="{{ isActiveRoute 'Add_Contact_Page'}} item" href="{{ pathFor 'Add_Contact_Page' }}">About Us </a>
     {{#if currentUser}}
         <a class="{{ isActiveRoute 'List_Stuff_Page'}} item" href="{{ pathFor 'List_Stuff_Page' }}">Sign In</a>
