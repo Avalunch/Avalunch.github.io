@@ -20,6 +20,7 @@ check@1.2.4
 standard-minifier-js@1.2.1
 shell-server@0.2.1
 
+
 # Collection utilities
 aldeed:collection2
 
@@ -38,6 +39,15 @@ kadira:flow-router
 zimme:active-route
 kadira:blaze-layout
 arillo:flow-router-helpers
+erasaur:meteor-lodash
+stolinski:stylus-multi
+fortawesome:fontawesome
+spiderable
+fastclick
+raix:handlebar-helpers
+matb33:bootstrap-glyphicons
+msavin:jetsetter
+gwendall:auth-client-callbacks
 
 # Semantic UI (and packages to integrate with accounts and autoform)
 semantic:ui
@@ -45,8 +55,7 @@ juliancwirko:postcss
 less@2.7.8
 fabienb4:autoform-semantic-ui
 
-# For prototyping purposes, enable autopublish and insecure
-insecure@1.0.7
+
 
 
 
