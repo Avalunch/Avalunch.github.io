@@ -23,26 +23,26 @@ Avalunch is the brain-child of ICS 314 classmates, Anh Lam [@anhlam](https://git
 Our software aims to become the visual solution to the problem of contemplating meal decisions during students precious lunch breaks.
 At first glace, our application will provide the following landing page to explain our product.
 
-<img class="ui centered medium image" src="/images/landingpage">
+<img class="ui centered medium image" src="/images/landingpage.png">
 
 Anyone with a UH Username and Password may sign into our app, as this app will be using the UH CAS authentication API.
 The next following page will accept user credentials and allow access to the following screens.
 
-<img class="ui centered medium image" src="/images/login">
+<img class="ui centered medium image" src="/images/login.png">
 
 The user will then gain access to start a generic, user-independent search of the current listing inside the app database.
 
-<img class="ui centered medium image" src="/images/search">
+<img class="ui centered medium image" src="/images/search.png">
 
 This app was designed to be customized by the user to create a dynamic, exciting experience. In addition to generic searches, the user will also be allocated a preferences and admin configuration for generating automated recommendations.
 
-<img class="ui centered medium image" src="/images/profile">
-<img class="ui centered medium image" src="/images/admin">
+<img class="ui centered medium image" src="/images/profile.png">
+<img class="ui centered medium image" src="/images/admin.png">
 
 Once fully configured, the app will begin to generate user-dependent listings of relevant food items based on style, price, and location.
 
-<img class="ui centered medium image" src="/images/user1">
-<img class="ui centered medium image" src="/images/user2">
+<img class="ui centered medium image" src="/images/user1.png">
+<img class="ui centered medium image" src="/images/user2.png">
 
 <hr>
 
