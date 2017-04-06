@@ -68,19 +68,36 @@ As such, our source code will make extensive use of imports from these libraries
 ### [Data Model](#data-model)<a name="data-model"></a>
 
 
-Our goal is to follow a similar data model of [Techfolios](http://techfolios.github.io/).
+Our goal is to follow a similar data model of [Techfolios](http://techfolios.github.io/). As an out-of-the-box feature, we intend to include a checkbox style ```Preferences``` page and ```Admin``` page. Using these forms, event handlers will control a JSON object with a UUID, which can then be referenced against when performing Map-Reduces against our item database.
 
 ### [CSS](#css)<a name="css"></a>
 
+
+As mentioned before, it was agreed that using the [Meteor Application Template](http://ics-software-engineering.github.io/meteor-application-template/) would allow more agile development, therefore the choice was made to continue using the templates built-in Semantic UI functionality.
+
+Let it be noticed that extensive use of the ```ui container``` class and ```ui image``` class will be throughout this app to exploit the spacing characteristics of Semantic UI. By avoiding to hard-code the UI layout, our team is believed to have an edge in agile development.
+
 ### [Routing](#routing)<a name="routing"></a>
+
+
+As mentioned, in the [Import Conventions](#import-conventions) segment, Blaze router was chosen to inject HTML templates into our Meteor application. This is a built-in functionality of Meteor, thereby using Blaze, our team gains an edge toward agile development as no additional software is needed for our stack. 
 
 ### [Authentication](#authentication)<a name="authentication"></a>
 
+
+Configured with the official Meteor Application Template is an authentication script for the UH Manoa CAS, which handles the University-wide login adminstration. This application will access UH CAS via API calls and authenticate users as valid logins.
+
 ### [Configuration](#configuration)<a name="configuration"></a>
+
+
+
 
 ### [Quality Assurance](#quality-assurance)<a name="quality-assurance"></a>
 
 #### [ESLint](#eslint)<a name="eslint"></a>
+
+
+By choosing the UH Manoa Meteor Application Template, the option to use ESLint to debug our code was included out-of-the-box. Our source code includes a ```.eslint``` and ```.eslintrc``` file included in it's top level directory. These files when configured correctly, allowed our team to comply with the AirBNB Javascript standards out-of-the-box, thus giving yet another edge in agile development
 
 <hr>
 
