@@ -70,6 +70,10 @@ As such, our source code will make extensive use of imports from these libraries
 
 Our goal is to follow a similar data model of [Techfolios](http://techfolios.github.io/). As an out-of-the-box feature, we intend to include a checkbox style ```Preferences``` page and ```Admin``` page. Using these forms, event handlers will control a JSON object with a UUID, which can then be referenced against when performing Map-Reduces against our item database.
 
+The data model will include two ```Collections``` that will be used to create the dynamic experience of this application. One collection named ```Users``` will contain objects with keys of true or false values for ```Preferences``` offered inside the application. This will then be used to query a second collection named ```Items``` which will contain objects of keys of properties about food items in the school-wide menu.
+
+By using a data-first model, our team is believed to gain a factor toward a more enjoyable, and agile development experience.
+
 ### [CSS](#css)<a name="css"></a>
 
 
@@ -108,3 +112,8 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 <hr>
 
 ## [Coming Soon<sup>TM</sup>](#soon)<a name="soon"></a>
+
+### Milestone 2: Data Model Development
+
+
+More exciting features are on it's way, please reference our [Data Model](#data-model) segment to see the current plans for this milestone! Stay tuned, as this is a learning experience, and may change over time. Please pay attention to our mistakes and how we have learned from them so you may have a more enjoyable and agile development experience in the future.
