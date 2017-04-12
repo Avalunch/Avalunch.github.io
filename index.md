@@ -1,3 +1,12 @@
+<div class="ui labeled button" tabindex="0">
+  <div class="ui blue button">
+    <i class="github alternate icon"></i>
+  </div>
+  <a class="ui basic red left pointing label" href="https://github.com/avalunch">
+    View Repository
+  </a>
+</div>
+
 ## [Table of Contents](#table-of-contents)<a name="table-of-contents"></a>
 - [About Avalunch](#about-avalunch)
 - [Application Design](#application-design)
