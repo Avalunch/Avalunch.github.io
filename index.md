@@ -1,3 +1,7 @@
+<button style="color: blue; text-align: center; font-size: 24px; padding: 15px 32 px;">
+  <a href="https://github.com/avalunch">View Repository </a>
+</button>
+
 ## [Table of Contents](#table-of-contents)<a name="table-of-contents"></a>
 - [About Avalunch](#about-avalunch)
 - [Application Design](#application-design)
@@ -12,7 +16,7 @@
     - [ESLint](#eslint)
 - [Development History](#history)
   - [Milestone 1: Mockup Development](#milestone1)
-- [Coming Soon<sup>TM</sup>](#soon)
+  - [Milestone 2: Data Model Development](#milestone2)
 
 <hr>
 
@@ -24,6 +28,8 @@ Our software aims to become the visual solution to the problem of contemplating 
 At first glace, our application will provide the following landing page to explain our product.
 
 <img class="ui centered medium image" src="/images/landingpage.png">
+<br>
+<img class="ui centered medium image" src="/images/Screen Shot 2017-04-13 at 10.53.43.png">
 
 Anyone with a UH Username and Password may sign into our app, as this app will be using the UH CAS authentication API.
 The next following page will accept user credentials and allow access to the following screens.
@@ -43,6 +49,9 @@ Once fully configured, the app will begin to generate user-dependent listings of
 
 <img class="ui centered medium image" src="/images/user1.png">
 <img class="ui centered medium image" src="/images/user2.png">
+
+In addiction, the user will be able contract other students for delivery
+<img class="ui centered medium image" src="/images/order.png">
 
 <hr>
 
@@ -109,13 +118,10 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 
 ## [Development History](#history)<a name="history"></a>
 
-### [Milestone 1: Mockup Development](#milestone1)<a name="milestone1"></a>
+### [](#milestone1)<a name="milestone1" href="https://github.com/Avalunch/Avalunch/projects/1">Milestone 1: Mockup Development</a>
+
+### [](#milestone2)<a name="milestone2" href="https://github.com/Avalunch/Avalunch/projects/2">Milestone 2: Data Model Development</a>
 
 <hr>
-
-## [Coming Soon<sup>TM</sup>](#soon)<a name="soon"></a>
-
-### Milestone 2: Data Model Development
-
 
 More exciting features are on it's way, please reference our [Data Model](#data-model) segment to see the current plans for this milestone! Stay tuned, as this is a learning experience, and may change over time. Please pay attention to our mistakes and how we have learned from them so you may have a more enjoyable and agile development experience in the future.
