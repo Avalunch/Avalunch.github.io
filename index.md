@@ -120,6 +120,8 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 
 ### [](#milestone1)<a name="milestone1" href="https://github.com/Avalunch/Avalunch/projects/1">Milestone 1: Mockup Development</a>
 
+<img class="ui centered medium image" src="/images/Screen Shot 2017-04-13 at 11.06.46.png">
+
 ### [](#milestone2)<a name="milestone2" href="https://github.com/Avalunch/Avalunch/projects/2">Milestone 2: Data Model Development</a>
 
 <hr>
