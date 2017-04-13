@@ -28,6 +28,8 @@ Our software aims to become the visual solution to the problem of contemplating 
 At first glace, our application will provide the following landing page to explain our product.
 
 <img class="ui centered medium image" src="/images/landingpage.png">
+<br>
+<img class="ui centered medium image" src="/images/Screen Shot 2017-04-13 at 10.53.43.png">
 
 Anyone with a UH Username and Password may sign into our app, as this app will be using the UH CAS authentication API.
 The next following page will accept user credentials and allow access to the following screens.
