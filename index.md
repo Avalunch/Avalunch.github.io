@@ -16,7 +16,7 @@
     - [ESLint](#eslint)
 - [Development History](#history)
   - [Milestone 1: Mockup Development](#milestone1)
-- [Coming Soon<sup>TM</sup>](#soon)
+  - [Milestone 2: Data Model Development](#milestone2)
 
 <hr>
 
@@ -47,6 +47,9 @@ Once fully configured, the app will begin to generate user-dependent listings of
 
 <img class="ui centered medium image" src="/images/user1.png">
 <img class="ui centered medium image" src="/images/user2.png">
+
+In addiction, the user will be able contract other students for delivery
+<img class="ui centered medium image" src="/images/order.png">
 
 <hr>
 
@@ -113,13 +116,10 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 
 ## [Development History](#history)<a name="history"></a>
 
-### [Milestone 1: Mockup Development](#milestone1)<a name="milestone1"></a>
+### [Milestone 1: Mockup Development](#milestone1)<a name="milestone1" href="https://github.com/Avalunch/Avalunch/projects/1"></a>
 
 <hr>
 
-## [Coming Soon<sup>TM</sup>](#soon)<a name="soon"></a>
-
-### Milestone 2: Data Model Development
-
+### [Milestone 2: Data Model Development] (#milestone2) <a name="milestone2" href="https://github.com/Avalunch/Avalunch/projects/2"></a>
 
 More exciting features are on it's way, please reference our [Data Model](#data-model) segment to see the current plans for this milestone! Stay tuned, as this is a learning experience, and may change over time. Please pay attention to our mistakes and how we have learned from them so you may have a more enjoyable and agile development experience in the future.
