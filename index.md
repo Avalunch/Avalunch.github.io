@@ -17,6 +17,7 @@
 - [Development History](#history)
   - [Milestone 1: Mockup Development](#milestone1)
   - [Milestone 2: Data Model Development](#milestone2)
+  - [Milestone 3: Refinement](#milestone3)
 
 <hr>
 
@@ -119,6 +120,8 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 ### [](#milestone1)<a name="milestone1" href="https://github.com/Avalunch/Avalunch/projects/1">Milestone 1: Mockup Development</a>
 
 ### [](#milestone2)<a name="milestone2" href="https://github.com/Avalunch/Avalunch/projects/2">Milestone 2: Data Model Development</a>
+
+### [](#milestone3)<a name="milestone3" href="https://github.com/Avalunch/Avalunch/projects/3">Milestone 3: Refinement</a>
 
 <hr>
 
