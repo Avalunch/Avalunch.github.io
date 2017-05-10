@@ -136,29 +136,29 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui centered medium image" src="/images/m3.png">
+      <img class="ui centered medium image" src="/images/Screen Shot 2017-05-09 at 20.57.39.png">
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui centered medium image" src="/images/m3.png">
+      <img class="ui centered medium image" src="/images/Screen Shot 2017-05-09 at 20.57.54.png">
     </div>
   </div>
 </div>
 <div class="ui three column grid">
   <div class="column">
     <div class="ui segment">
-      <img class="ui centered medium image" src="/images/m3.png">
+      <img class="ui centered medium image" src="/images/Screen Shot 2017-05-09 at 20.55.57.png">
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui centered medium image" src="/images/m3.png">
+      <img class="ui centered medium image" src="/images/Screen Shot 2017-05-09 at 20.56.58.png">
     </div>
   </div>
   <div class="column">
     <div class="ui segment">
-      <img class="ui centered medium image" src="/images/m3.png">
+      <img class="ui centered medium image" src="/images/Screen Shot 2017-05-09 at 20.57.09.png">
     </div>
   </div>
 </div>
