@@ -29,6 +29,8 @@ Our software aims to become the visual solution to the problem of contemplating 
 At first glace, our application will provide the following landing page to explain our product.
 
 <img class="ui centered medium image" src="/images/landingpage.png">
+<br>
+<img class="ui centered medium image" src="/images/Screen Shot 2017-04-13 at 10.53.43.png">
 
 Anyone with a UH Username and Password may sign into our app, as this app will be using the UH CAS authentication API.
 The next following page will accept user credentials and allow access to the following screens.
@@ -118,6 +120,8 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 ## [Development History](#history)<a name="history"></a>
 
 ### [](#milestone1)<a name="milestone1" href="https://github.com/Avalunch/Avalunch/projects/1">Milestone 1: Mockup Development</a>
+
+<img class="ui centered medium image" src="/images/Screen Shot 2017-04-13 at 11.06.46.png">
 
 ### [](#milestone2)<a name="milestone2" href="https://github.com/Avalunch/Avalunch/projects/2">Milestone 2: Data Model Development</a>
 
