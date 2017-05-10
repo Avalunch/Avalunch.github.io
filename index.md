@@ -128,8 +128,42 @@ By choosing the UH Manoa Meteor Application Template, the option to use ESLint t
 <img class="ui centered medium image" src="/images/m2.png">
 
 ### [](#milestone3)<a name="milestone3" href="https://github.com/Avalunch/Avalunch/projects/3">Milestone 3: Refinement</a>
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+</div>
+<div class="ui three column grid">
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+  <div class="column">
+    <div class="ui segment">
+      <img class="ui centered medium image" src="/images/m3.png">
+    </div>
+  </div>
+</div>
 
-<img class="ui centered medium image" src="/images/m3.png">
+
 
 <hr>
 
